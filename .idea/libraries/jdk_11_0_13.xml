@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk-11.0.13">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Eclipse Adoptium/jdk-11.0.13.8-hotspot" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Eclipse Adoptium/jdk-11.0.13.8-hotspot" recursive="false" />
+  </library>
+</component>
